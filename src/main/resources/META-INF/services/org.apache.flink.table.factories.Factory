@@ -1,3 +1,5 @@
 com.tngtech.flink.connector.email.imap.ImapSourceFactory
 com.tngtech.flink.connector.email.imap.ImapCatalogFactory
 com.tngtech.flink.connector.email.smtp.SmtpSinkFactory
+com.tngtech.flink.connector.email.foo.FooDynamicTableSinkFactory
+com.tngtech.flink.connector.email.foo.FooDynamicTableSourceFactory
